@@ -55,8 +55,11 @@ The dataset contains valuable information that could help optimize operations, b
   * Road Tire Tube
   * Sport-100 Helmet-Black
   * Sport-100 Helmet-Blue
-  * Sport-100 Helmet-Red
+  * Sport-100 Helmet-Red 
   * Water Bottle - 30 oz
+    * Highest revenue: Fender Set - Mountain
+    * Highest number of orders: Water Bottle - 30 oz
+    * Highest return rate %: Sport-100 Helmet-Red
 * Most ordered product type: Tired and Tubes
 * Most returned product type: Shorts
 * Geographical total orders:
