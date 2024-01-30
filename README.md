@@ -21,10 +21,10 @@ The dataset contains valuable information that could help optimize operations, b
 
 ## Key Questions Explored
 
-1. Total Revenue: Over the span of 2 years, detailed in year, quarter, month and week.
-2. Total Profit: Over the span of 2 years, detailed in year, quarter, month and week.
-3. Total number of Orders: Over the span of 2 years, detailed in year, quarter, month and week.
-4. Total return rate %: Over the span of 2 years, detailed in year, quarter, month and week.
+1. Total Revenue: Over the span of 2 years.
+2. Total Profit: Over the span of 2 years.
+3. Total number of Orders: Over the span of 2 years.
+4. Total return rate %: Over the span of 2 years.
 5. Total orders by category: What category items sold belongs to.
 6. Top 10 products: Sorted by 3 different criteria, total orders, revenue, and return rate %.
 7. Most ordered product type: What do customers buy the most of?
