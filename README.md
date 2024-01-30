@@ -2,6 +2,11 @@
 
 Bike Store Analysis has a comprehensive 2 year's worth of sales data (2020-2022, spanning over 55,000 rows) from a fictitious bike store that spans 3 continents. The dataset also includes detailed information about products, return rate data, and customers.
 
+## Preview
+
+![2024-01-3016-16-34-ezgif com-video-to-gif-converter](https://github.com/Mlindens/Bike_Store_Analysis/assets/83295029/e7651e09-aa2d-4650-abbb-d439f57800e6)
+
+
 ## Dataset Overview
 
 The dataset contains valuable information that could help optimize operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:
@@ -66,7 +71,10 @@ The dataset contains valuable information that could help optimize operations, b
    * Highest: United Stated 8,700 orders
    * Lowest: Germany 2,294 orders
 * Top 10 products performance to previous month:
-* Top customer: Mr. Maurice Shan with 6 orders, totalling 12.4k revenue.
+* Top customer by revenue: Mr. Maurice Shan with 6 orders, totalling 12.4k revenue.
 * Top 100 customers:
 * Number of unique customers: 17.4k
 * Average Revenue per customer: $1,431 per customer
+
+Data Source: Maven Analytics
+
