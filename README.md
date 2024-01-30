@@ -69,4 +69,4 @@ The dataset contains valuable information that could help optimize operations, b
 * Top customer: Mr. Maurice Shan with 6 orders, totalling 12.4k revenue.
 * Top 100 customers:
 * Number of unique customers: 17.4k
-* Average Revenue per customer: $1,431 per customer.
+* Average Revenue per customer: $1,431 per customer
