@@ -76,14 +76,5 @@ The dataset contains valuable information that could help optimize operations, b
 * Number of unique customers: 17.4k
 * Average Revenue per customer: $1,431 per customer
 
-![1](https://github.com/Mlindens/Bike_Store_Analysis/assets/83295029/7064b163-b941-494b-8f1a-a68554e0a810)
-
-![2](https://github.com/Mlindens/Bike_Store_Analysis/assets/83295029/0290a0a6-3839-40f9-bcb3-1cbeb8d2d76a)
-
-![3](https://github.com/Mlindens/Bike_Store_Analysis/assets/83295029/ed8dfdbc-b1ef-4ab2-9208-4caec994ae3b)
-
-![4](https://github.com/Mlindens/Bike_Store_Analysis/assets/83295029/fdbd4ec5-a98d-4b41-b715-226502d5ee64)
-
-
 Data Source: Maven Analytics
 
