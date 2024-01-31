@@ -22,7 +22,7 @@ The dataset contains valuable information that could help optimize operations, b
 2. Top 10 products: Analyzing the data to find out which 10 products are the most ordered, profitable, and highest return rate.
 3. Geographical orders: Mapping total orders per store location across 3 continents.
 4. Product detail: A deeper analysis of the top 10 products to show monthly order, revenue, and profit vs target (+10% over last month), profit trending as well as return trending.
-5. Customer detail: Uncovering how many unique customers, top 100 customers by revenue and orders, orders by income level and occupation.
+5. Customer detail: Uncovering how many unique customers, top 100 customers by revenue and orders.
 
 ## Key Questions Explored
 
